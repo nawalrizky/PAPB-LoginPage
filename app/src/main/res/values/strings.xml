@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="title">Login</string>
+    <string name="username">Username :</string>
+    <string name="password">Password :</string>
+    <string name="userPlaceholder">Masukkan Username</string>
+    <string name="passPlaceholder">Masukkan Password</string>
+    <string name="btnLogin">Log In</string>
+    <string name="showSuccess">Login Sukses</string>
+    <string name="showFail">Login Gagal</string>
+</resources>
